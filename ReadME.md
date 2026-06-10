@@ -48,7 +48,7 @@ sudo apt-get install python3-tk
 ### Running the Game
 
 ```bash
-python3 SnakeGame_improved.py
+python3 SnakeGame.py
 ```
 
 ---
@@ -69,7 +69,7 @@ Eat the glowing food dots to grow and increase your score. Don't hit the walls o
 ## Project Structure
 
 ```
-SnakeGame_improved.py   # Main game file — everything lives here
+SnakeGame.py   # Main game file — everything lives here
 README.md
 ```
 
